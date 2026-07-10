@@ -24,6 +24,7 @@ I build the analytics and AI systems behind **[10 Minute School](https://10minut
 | --- | ------- | -------- |
 | 🧠 | **[TenTen](https://uttamdeb.com/tenten)** | Integrated AI learning ecosystem — 17 agents across 6 surfaces (chat, live classes, exams, quizzes…). I own retrieval, memory & evals. |
 | 📊 | **[Data Agent](https://uttamdeb.com/origin-labs)** | Natural language → SQL → BigQuery, answered on web, Slack & Google Chat — with saved, refreshable dashboards. |
+| 📈 | **[FitBit Fitness Tracker Analysis](https://www.kaggle.com/code/debuttam/fitbit-fitness-tracker-data-analysis-for-bellabeat)** | Kaggle case study — turning wearable health data into business recommendations for Bellabeat. |
 | ✅ | **[QC Agent](https://uttamdeb.com/origin-labs)** | OCR + rules pipeline (Apps Script + n8n) for MCQ/PDF content quality control. |
 | 🌍 | **[Encarta](https://github.com/uttamdeb/encarta)** | An interactive world-culture atlas for curious learners. |
 | 🖥️ | **[uttamdeb.com](https://github.com/uttamdeb/uttamdeb.github.io)** | My portfolio — case studies, experience & writing. |
@@ -75,6 +76,12 @@ I build the analytics and AI systems behind **[10 Minute School](https://10minut
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Apps Script](https://img.shields.io/badge/Apps_Script-4285F4?style=for-the-badge&logo=googleappsscript&logoColor=white)
+
+**BI / Data Certifications**
+
+![Google Business Intelligence Professional Certificate](https://img.shields.io/badge/Google_BI_Professional_Certificate-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Google Data Analytics Professional Certificate](https://img.shields.io/badge/Google_Data_Analytics_Professional_Certificate-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![dbt Fundamentals for Analytics Engineering](https://img.shields.io/badge/dbt_Fundamentals_for_Analytics_Engineering-FF694B?style=for-the-badge)
 
 ## 📈 GitHub at a glance
 
