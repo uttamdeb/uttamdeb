@@ -15,6 +15,7 @@ I build the analytics and AI systems behind **[10 Minute School](https://10minut
 - 📊 5+ years of BI — BigQuery warehouse stewardship, Looker/Metabase dashboards, lead automation & ML lead scoring
 - 👩‍🏫 Teaching **Python for AI/ML** at [SheSTEM](https://shestem.org/) — mentoring women entering STEM
 - 🌱 Currently exploring local LLMs, fine-tuning & agent evals
+- 🤝 Open to collaborating on AI agents, data tooling & edtech analytics
 - 📫 Reach me: [uttamdeb670@gmail.com](mailto:uttamdeb670@gmail.com) · [uttamdeb.com](https://uttamdeb.com)
 
 ## 🚀 What I'm building
